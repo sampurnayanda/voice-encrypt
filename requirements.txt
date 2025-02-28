@@ -1,0 +1,8 @@
+flask
+tensorflow
+numpy
+gunicorn
+soundfile
+flask_cors
+cryptography
+librosa
